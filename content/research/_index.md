@@ -35,3 +35,25 @@ Understanding macroecology at large spatial or temporal scales frequently requir
 
 
 {{< fancybox path="/img/research" file="adaptive_management_gear.png" caption="Research investigations and land/resource management can feasibly mesh together and inform each other." gallery="Gallery Name" >}}
+
+<br>
+<br>
+
+### Sponsors and Collaborators
+
+<img align="left" src="/img/research/NSF_logo.png"  style="margin: 0px 20px" width = "120">
+
+<img align="left" src="/img/research/SI_logo_no_text.png"  style="margin:10px 20px" width = "100">
+
+<img align="left" src="/img/research/uf_logo.png"  style="margin: 10px 20px" width = "90">
+
+<img align="left" src="/img/research/CCRCN_icon.png"  style="margin:10px 20px" width = "100">
+
+<img align="left" src="/img/research/Mongabay_logo.png"  style="margin: 50px 20px" width = "200">
+
+
+<br>
+<br>
+<br>
+<br>
+
