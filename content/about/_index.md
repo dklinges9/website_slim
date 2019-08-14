@@ -4,80 +4,40 @@ date = "2014-04-09"
 +++
 
 
+<img align="right" src="/img/about/rainbow_boa.png" width = "250" style="margin:50px 20px">
 
-A record of the meditations, murmurs, and misadventures of Nature Dave in his pursuit of ecological knowledge.
+Dave Klinges is a PhD student at the University of Florida in the Scheffers Lab and a Research Associate of the Smithsonian Institution. As a “full-stack” ecologist, his work ranges from fieldwork in remote jungles to building data curation pipelines, Bayesian hierarchical modeling, and ecological forecasting. See his [Research Program](/research/) for more.
 
-CURRENT LOCATION:
+Nature Dave was raised in the wildlands of suburban central New Jersey in the town of Princeton. As a young adventurer, he explored the exotic and untamed local pond, fondly dubbed the “Frog Pond,” in search of snapping turtles, northern water snakes, and of course, many frogs.
 
-Smithsonian Environmental Research Center
+<br>
 
-Edgewater, MD
-
-David Klinges is the database manager for the Coastal Carbon Research Coordination Network. His work includes curating data, designing web interfaces and data-access tools, and coordinating data- and skill-sharing workshops. As a “full-stack” ecologist, he also enjoys the front-end of research by conducting fieldwork in coastal wetlands and forests.
-
-Nature Dave was raised in the remote wildlands of suburban central New Jersey in the town of Princeton. As a young adventurer, he explored the exotic and untamed local pond, fondly dubbed the “Frog Pond,” in search of snapping turtles, northern water snakes, and of course, many frogs.
+<img align="left" src="/img/about/nature_in_jungle.JPG"  style="margin:-10px 10px" width = "250">
 
 Unfulfilled by this flat and developed realm, a yearning for the outdoors brought him to little Hanover, New Hampshire, to attend Dartmouth College. On weekends and breaks from school, Nature (earning this nickname during a freshman orientation hiking trip, during which he frequently stopped the group to identify trees and amphibious wildlife) would hike in the nearby White Mountains, or travel on other backpacking adventures with the Dartmouth Outing Club.
 
 But one of the biggest draws of Dartmouth was the school’s foreign study program (FSP) in Biology. Six weeks in Costa Rica and three more on Little Cayman Island opened to him the whole world of tropical ecology, and after he cut his teeth studying poison frog coloration and marine snail distributions, there was no turning back.
 
+<img align="right" src="/img/about/David_Deltamon.png" width = "200" style="margin:50px 20px">
+
+<br>
+
 Since this formative experience, Dave has been on numerous additional expeditions to study and practice ecology and conservation biology, including Honduras, Louisiana, and the Peruvian Amazon. Through this blog, Nature hopes to share the knowledge and insight he has gained from working in Paradise, so that others may become better acquainted with and appreciative of natural wildlife and landscapes. Enjoy!
 
-Email: dklinges9@gmail.com
+<br>
+<br>
+<br>
 
-View CV here
+<font size=4>**Email**: <A HREF="mailto:dklinges9@gmail.com">dklinges@ufl.edu</A>  
 
-The Tweet machine
+<br>
+<a href="./Klinges-May_2019.pdf" target="_blank">View CV here</a> 
+</font>
 
-PAST LOCATIONS:
-
-Smithsonian Conservation Biology Institute, Front Royal, VA.
-
-Madre de Dios, Peru.
-
-LUMCON, Cocodrie, LA
-
-One of the Gulf's premiere research stations founded in 1979
-Partnerships with Tulane, LSU, Nicholls U, and other schools
-Elevation in 2016: 3 ft above sea level
-Elevation in 2026: 5 ft below sea level
-
-Little Cayman, BWI
-
-one of the three Cayman Islands
-world-renowned for diving
-total permanent residential population: 17
-beach: check. sun: check. perfection: check.
-
-La Selva Biological Station, Costa Rica
-
-Las Cruces Botanical Garden, Costa Rica
-
-Corcovado, Costa Rica
-
-Cuerici Research Station, Costa Rica
-
-Monteverde, Costa Rica
-
-Santa Rosa, Costa Rica
-
-Northwest Costa Rica
-tropical dry forest and mangrove swamp bordering the Pacific coast
-prominent wildlife: Olive Ridley sea turtle (Lepidochelys olivacea), green iguana (Iguana iguana), jaguar? (Panthera onca)
-*NOTE*: We have no electricity/internet access in Santa Rosa.  So no updates until Monteverde this weekend!
-
-Palo Verde, Costa Rica
+<br>
+<br>
 
 
-## Setup
 
-Some fun facts about [Hugo](http://gohugo.io/):
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
