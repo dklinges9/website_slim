@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "NATURE.IN.PARADISE"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -104,11 +104,11 @@ disableLanguages        = [""]
 [menu]
   # Sets the menu items in the navigation bar
   # Identifier prepends a Font Awesome icon to the menu item
-  [[menu.main]]
-    name              = "Home"
-    url               = "/"
-    identifier        = "fas fa-home"
-    weight            = 1
+  # [[menu.main]]
+  #  name              = "Home"
+  #  url               = "/"
+  # identifier        = "fas fa-home"
+  # weight            = 1
 
   [[menu.main]]
     name              = "About"
@@ -122,17 +122,23 @@ disableLanguages        = [""]
       identifier        = "far fa-id-research"
       weight            = 3
 
+   [[menu.main]]
+      name              = "In the News"
+      url               = "/in_the_news/"
+      identifier        = "far fa-id-news"
+      weight            = 4
+
+  [[menu.main]]
+    name              = "Multimedia"
+    url               = "/multimedia/"
+    identifier        = "far fa-multimedia"
+    weight            = 5
+
   [[menu.main]]
     name              = "Blog"
     url               = "/blog/"
     identifier        = "far fa-newspaper"
     weight            = 6
-
-  [[menu.main]]
-    name              = "Categories"
-    url               = "/categories/"
-    identifier        = "fas fa-sitemap"
-    weight            = 7
 
   [[menu.main]]
     name              = "Contact"
