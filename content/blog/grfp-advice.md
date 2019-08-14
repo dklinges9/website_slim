@@ -1,7 +1,6 @@
 
 +++
 author = "dklinges"
-categories = ["research career"]
 date = "2019-06-30"
 description = "Thoughts on approaching an NSF Graduate Research Fellowship application."
 featured = ""
